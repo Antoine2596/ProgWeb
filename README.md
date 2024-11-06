@@ -1,5 +1,3 @@
 # ProgWeb
 
-'''
-ls -a
-'''
+	ls -a
